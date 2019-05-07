@@ -1,0 +1,331 @@
+[
+  {
+    "name": "Klyuchevskoy",
+    "country": "Russia",
+    "type": "Stratovolcano",
+    "date": "2019-04-09",
+    "vei": "NA"
+  },
+  {
+    "name": "Tengger Caldera",
+    "country": "Indonesia",
+    "type": "Stratovolcano",
+    "date": "2019-02-18",
+    "vei": "2"
+  },
+  {
+    "name": "Karymsky",
+    "country": "Russia",
+    "type": "Stratovolcano",
+    "date": "2019-02-16",
+    "vei": "NA"
+  },
+  {
+    "name": "Poas",
+    "country": "Costa Rica",
+    "type": "Stratovolcano",
+    "date": "2019-02-07",
+    "vei": "NA"
+  },
+  {
+    "name": "Planchon-Peteroa",
+    "country": "Chile",
+    "type": "Stratovolcano",
+    "date": "2018-12-16",
+    "vei": "1"
+  },
+  {
+    "name": "Karangetang",
+    "country": "Indonesia",
+    "type": "Stratovolcano",
+    "date": "2018-11-25",
+    "vei": "2"
+  },
+  {
+    "name": "Kuchinoerabujima",
+    "country": "Japan",
+    "type": "Stratovolcano",
+    "date": "2018-10-21",
+    "vei": "3"
+  },
+  {
+    "name": "Barren Island",
+    "country": "India",
+    "type": "Stratovolcano",
+    "date": "2018-09-25",
+    "vei": "1"
+  },
+  {
+    "name": "Rincon de la Vieja",
+    "country": "Costa Rica",
+    "type": "Complex",
+    "date": "2018-07-28",
+    "vei": "1"
+  },
+  {
+    "name": "Krakatau",
+    "country": "Indonesia",
+    "type": "Caldera",
+    "date": "2018-06-18",
+    "vei": "3"
+  },
+  {
+    "name": "Merapi",
+    "country": "Indonesia",
+    "type": "Stratovolcano",
+    "date": "2018-05-11",
+    "vei": "3"
+  },
+  {
+    "name": "Kerinci",
+    "country": "Indonesia",
+    "type": "Stratovolcano",
+    "date": "2018-04-21",
+    "vei": "1"
+  },
+  {
+    "name": "Mayon",
+    "country": "Philippines",
+    "type": "Stratovolcano",
+    "date": "2018-01-13",
+    "vei": "2"
+  },
+  {
+    "name": "Kadovar",
+    "country": "Papua New Guinea",
+    "type": "Stratovolcano",
+    "date": "2018-01-05",
+    "vei": "2"
+  },
+  {
+    "name": "Agung",
+    "country": "Indonesia",
+    "type": "Stratovolcano",
+    "date": "2017-11-21",
+    "vei": "3"
+  },
+  {
+    "name": "Ambae",
+    "country": "Vanuatu",
+    "type": "Shield",
+    "date": "2017-09-06",
+    "vei": "3"
+  },
+  {
+    "name": "Sangeang Api",
+    "country": "Indonesia",
+    "type": "Complex",
+    "date": "2017-07-15",
+    "vei": "2"
+  },
+  {
+    "name": "Ol Doinyo Lengai",
+    "country": "Tanzania",
+    "type": "Stratovolcano",
+    "date": "2017-04-09",
+    "vei": "0"
+  },
+  {
+    "name": "Aira",
+    "country": "Japan",
+    "type": "Caldera",
+    "date": "2017-03-25",
+    "vei": "1"
+  },
+  {
+    "name": "Sabancaya",
+    "country": "Peru",
+    "type": "Stratovolcano",
+    "date": "2016-11-06",
+    "vei": "3"
+  },
+  {
+    "name": "Ebeko",
+    "country": "Russia",
+    "type": "Stratovolcano",
+    "date": "2016-10-20",
+    "vei": "2"
+  },
+  {
+    "name": "Saunders",
+    "country": "United Kingdom",
+    "type": "Stratovolcano",
+    "date": "2016-09-28",
+    "vei": "1"
+  },
+  {
+    "name": "Cleveland",
+    "country": "United States",
+    "type": "Stratovolcano",
+    "date": "2016-04-16",
+    "vei": "2"
+  },
+  {
+    "name": "Nevados de Chillan",
+    "country": "Chile",
+    "type": "Stratovolcano",
+    "date": "2016-01-08",
+    "vei": "2"
+  },
+  {
+    "name": "Masaya",
+    "country": "Nicaragua",
+    "type": "Caldera",
+    "date": "2015-10-03",
+    "vei": "1"
+  },
+  {
+    "name": "Pacaya",
+    "country": "Guatemala",
+    "type": "Complex",
+    "date": "2015-06-07",
+    "vei": "1"
+  },
+  {
+    "name": "Turrialba",
+    "country": "Costa Rica",
+    "type": "Stratovolcano",
+    "date": "2015-03-08",
+    "vei": "2"
+  },
+  {
+    "name": "Villarrica",
+    "country": "Chile",
+    "type": "Stratovolcano",
+    "date": "2014-12-02",
+    "vei": "1"
+  },
+  {
+    "name": "Manam",
+    "country": "Papua New Guinea",
+    "type": "Stratovolcano",
+    "date": "2014-06-29",
+    "vei": "2"
+  },
+  {
+    "name": "Semeru",
+    "country": "Indonesia",
+    "type": "Stratovolcano",
+    "date": "2014-04-01",
+    "vei": "3"
+  },
+  {
+    "name": "Etna",
+    "country": "Italy",
+    "type": "Stratovolcano",
+    "date": "2013-09-03",
+    "vei": "2"
+  },
+  {
+    "name": "Heard",
+    "country": "Australia",
+    "type": "Stratovolcano",
+    "date": "2012-09-05",
+    "vei": "0"
+  },
+  {
+    "name": "Bezymianny",
+    "country": "Russia",
+    "type": "Stratovolcano",
+    "date": "2010-05-21",
+    "vei": "3"
+  },
+  {
+    "name": "Reventador",
+    "country": "Ecuador",
+    "type": "Stratovolcano",
+    "date": "2008-07-27",
+    "vei": "2"
+  },
+  {
+    "name": "Ibu",
+    "country": "Indonesia",
+    "type": "Stratovolcano",
+    "date": "2008-04-05",
+    "vei": "1"
+  },
+  {
+    "name": "Popocatepetl",
+    "country": "Mexico",
+    "type": "Stratovolcano",
+    "date": "2005-01-09",
+    "vei": "2"
+  },
+  {
+    "name": "Suwanosejima",
+    "country": "Japan",
+    "type": "Stratovolcano",
+    "date": "2004-10-29",
+    "vei": "2"
+  },
+  {
+    "name": "Nyiragongo",
+    "country": "DR Congo",
+    "type": "Stratovolcano",
+    "date": "2002-05-17",
+    "vei": "2"
+  },
+  {
+    "name": "Fuego",
+    "country": "Guatemala",
+    "type": "Stratovolcano",
+    "date": "2002-01-04",
+    "vei": "3"
+  },
+  {
+    "name": "Bagana",
+    "country": "Papua New Guinea",
+    "type": "Lava cone",
+    "date": "2000-02-28",
+    "vei": "2"
+  },
+  {
+    "name": "Sheveluch",
+    "country": "Russia",
+    "type": "Stratovolcano",
+    "date": "1999-08-15",
+    "vei": "4"
+  },
+  {
+    "name": "Erebus",
+    "country": "Antarctica",
+    "type": "Stratovolcano",
+    "date": "1972-12-16",
+    "vei": "2"
+  },
+  {
+    "name": "Erta Ale",
+    "country": "Ethiopia",
+    "type": "Shield",
+    "date": "1967-07-02",
+    "vei": "0"
+  },
+  {
+    "name": "Stromboli",
+    "country": "Italy",
+    "type": "Stratovolcano",
+    "date": "1934-02-02",
+    "vei": "2"
+  },
+  {
+    "name": "Dukono",
+    "country": "Indonesia",
+    "type": "Complex",
+    "date": "1933-08-13",
+    "vei": "3"
+  },
+  {
+    "name": "Santa Maria",
+    "country": "Guatemala",
+    "type": "Stratovolcano",
+    "date": "1922-06-22",
+    "vei": "3"
+  },
+  {
+    "name": "Yasur",
+    "country": "Vanuatu",
+    "type": "Stratovolcano",
+    "date": "1774-06-02",
+    "vei": "3"
+  }
+]
