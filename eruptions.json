@@ -4,6 +4,8 @@
     "country": "Russia",
     "type": "Stratovolcano",
     "date": "2019-04-09",
+    "latitude": "56.056",
+    "longitude": "160.642",
     "vei": "NA"
   },
   {
@@ -11,6 +13,8 @@
     "country": "Indonesia",
     "type": "Stratovolcano",
     "date": "2019-02-18",
+    "latitude": "-7.942",
+    "longitude": "112.95",
     "vei": "2"
   },
   {
@@ -18,6 +22,8 @@
     "country": "Russia",
     "type": "Stratovolcano",
     "date": "2019-02-16",
+    "latitude": "54.049",
+    "longitude": "159.443",
     "vei": "NA"
   },
   {
@@ -25,6 +31,8 @@
     "country": "Costa Rica",
     "type": "Stratovolcano",
     "date": "2019-02-07",
+    "latitude": "10.2",
+    "longitude": "-84.233",
     "vei": "NA"
   },
   {
@@ -32,6 +40,8 @@
     "country": "Chile",
     "type": "Stratovolcano",
     "date": "2018-12-16",
+    "latitude": "-35.223",
+    "longitude": "-70.568",
     "vei": "1"
   },
   {
@@ -39,6 +49,8 @@
     "country": "Indonesia",
     "type": "Stratovolcano",
     "date": "2018-11-25",
+    "latitude": "2.781",
+    "longitude": "125.407",
     "vei": "2"
   },
   {
@@ -46,6 +58,8 @@
     "country": "Japan",
     "type": "Stratovolcano",
     "date": "2018-10-21",
+    "latitude": "30.443",
+    "longitude": "130.217",
     "vei": "3"
   },
   {
@@ -53,6 +67,8 @@
     "country": "India",
     "type": "Stratovolcano",
     "date": "2018-09-25",
+    "latitude": "12.278",
+    "longitude": "93.858",
     "vei": "1"
   },
   {
@@ -60,6 +76,8 @@
     "country": "Costa Rica",
     "type": "Complex",
     "date": "2018-07-28",
+    "latitude": "10.83",
+    "longitude": "-85.324",
     "vei": "1"
   },
   {
@@ -67,6 +85,8 @@
     "country": "Indonesia",
     "type": "Caldera",
     "date": "2018-06-18",
+    "latitude": "-6.102",
+    "longitude": "105.423",
     "vei": "3"
   },
   {
@@ -74,6 +94,8 @@
     "country": "Indonesia",
     "type": "Stratovolcano",
     "date": "2018-05-11",
+    "latitude": "-7.54",
+    "longitude": "110.446",
     "vei": "3"
   },
   {
@@ -81,6 +103,8 @@
     "country": "Indonesia",
     "type": "Stratovolcano",
     "date": "2018-04-21",
+    "latitude": "-1.697",
+    "longitude": "101.264",
     "vei": "1"
   },
   {
@@ -88,6 +112,8 @@
     "country": "Philippines",
     "type": "Stratovolcano",
     "date": "2018-01-13",
+    "latitude": "13.257",
+    "longitude": "123.685",
     "vei": "2"
   },
   {
@@ -95,6 +121,8 @@
     "country": "Papua New Guinea",
     "type": "Stratovolcano",
     "date": "2018-01-05",
+    "latitude": "-3.608",
+    "longitude": "144.588",
     "vei": "2"
   },
   {
@@ -102,6 +130,8 @@
     "country": "Indonesia",
     "type": "Stratovolcano",
     "date": "2017-11-21",
+    "latitude": "-8.343",
+    "longitude": "115.508",
     "vei": "3"
   },
   {
@@ -109,6 +139,8 @@
     "country": "Vanuatu",
     "type": "Shield",
     "date": "2017-09-06",
+    "latitude": "-15.389",
+    "longitude": "167.835",
     "vei": "3"
   },
   {
@@ -116,6 +148,8 @@
     "country": "Indonesia",
     "type": "Complex",
     "date": "2017-07-15",
+    "latitude": "-8.2",
+    "longitude": "119.07",
     "vei": "2"
   },
   {
@@ -123,6 +157,8 @@
     "country": "Tanzania",
     "type": "Stratovolcano",
     "date": "2017-04-09",
+    "latitude": "-2.764",
+    "longitude": "35.914",
     "vei": "0"
   },
   {
@@ -130,6 +166,8 @@
     "country": "Japan",
     "type": "Caldera",
     "date": "2017-03-25",
+    "latitude": "31.593",
+    "longitude": "130.657",
     "vei": "1"
   },
   {
@@ -137,6 +175,8 @@
     "country": "Peru",
     "type": "Stratovolcano",
     "date": "2016-11-06",
+    "latitude": "-15.787",
+    "longitude": "-71.857",
     "vei": "3"
   },
   {
@@ -144,6 +184,8 @@
     "country": "Russia",
     "type": "Stratovolcano",
     "date": "2016-10-20",
+    "latitude": "50.686",
+    "longitude": "156.014",
     "vei": "2"
   },
   {
@@ -151,6 +193,8 @@
     "country": "United Kingdom",
     "type": "Stratovolcano",
     "date": "2016-09-28",
+    "latitude": "-57.8",
+    "longitude": "26.483",
     "vei": "1"
   },
   {
@@ -158,6 +202,8 @@
     "country": "United States",
     "type": "Stratovolcano",
     "date": "2016-04-16",
+    "latitude": "52.825",
+    "longitude": "-169.944",
     "vei": "2"
   },
   {
@@ -165,6 +211,8 @@
     "country": "Chile",
     "type": "Stratovolcano",
     "date": "2016-01-08",
+    "latitude": "-36.868",
+    "longitude": "71.378",
     "vei": "2"
   },
   {
@@ -172,6 +220,8 @@
     "country": "Nicaragua",
     "type": "Caldera",
     "date": "2015-10-03",
+    "latitude": "11.984",
+    "longitude": "-86.161",
     "vei": "1"
   },
   {
@@ -179,6 +229,8 @@
     "country": "Guatemala",
     "type": "Complex",
     "date": "2015-06-07",
+    "latitude": "14.382",
+    "longitude": "-90.601",
     "vei": "1"
   },
   {
@@ -186,6 +238,8 @@
     "country": "Costa Rica",
     "type": "Stratovolcano",
     "date": "2015-03-08",
+    "latitude": "10.025",
+    "longitude": "-83.767",
     "vei": "2"
   },
   {
@@ -193,6 +247,8 @@
     "country": "Chile",
     "type": "Stratovolcano",
     "date": "2014-12-02",
+    "latitude": "-39.42",
+    "longitude": "-71.93",
     "vei": "1"
   },
   {
@@ -200,6 +256,8 @@
     "country": "Papua New Guinea",
     "type": "Stratovolcano",
     "date": "2014-06-29",
+    "latitude": "-4.08",
+    "longitude": "145.037",
     "vei": "2"
   },
   {
@@ -207,6 +265,8 @@
     "country": "Indonesia",
     "type": "Stratovolcano",
     "date": "2014-04-01",
+    "latitude": "-8.108",
+    "longitude": "112.922",
     "vei": "3"
   },
   {
@@ -214,6 +274,8 @@
     "country": "Italy",
     "type": "Stratovolcano",
     "date": "2013-09-03",
+    "latitude": "112.922",
+    "longitude": "14.999",
     "vei": "2"
   },
   {
@@ -221,6 +283,8 @@
     "country": "Australia",
     "type": "Stratovolcano",
     "date": "2012-09-05",
+    "latitude": "-53.106",
+    "longitude": "73.513",
     "vei": "0"
   },
   {
@@ -228,6 +292,8 @@
     "country": "Russia",
     "type": "Stratovolcano",
     "date": "2010-05-21",
+    "latitude": "55.972",
+    "longitude": "160.595",
     "vei": "3"
   },
   {
@@ -235,6 +301,8 @@
     "country": "Ecuador",
     "type": "Stratovolcano",
     "date": "2008-07-27",
+    "latitude": "-0.077",
+    "longitude": "-77.656",
     "vei": "2"
   },
   {
@@ -242,6 +310,8 @@
     "country": "Indonesia",
     "type": "Stratovolcano",
     "date": "2008-04-05",
+    "latitude": "1.488",
+    "longitude": "127.63",
     "vei": "1"
   },
   {
@@ -249,6 +319,8 @@
     "country": "Mexico",
     "type": "Stratovolcano",
     "date": "2005-01-09",
+    "latitude": "19.023",
+    "longitude": "-98.622",
     "vei": "2"
   },
   {
@@ -256,6 +328,8 @@
     "country": "Japan",
     "type": "Stratovolcano",
     "date": "2004-10-29",
+    "latitude": "29.638",
+    "longitude": "129.714",
     "vei": "2"
   },
   {
@@ -263,6 +337,8 @@
     "country": "DR Congo",
     "type": "Stratovolcano",
     "date": "2002-05-17",
+    "latitude": "-1.52",
+    "longitude": "29.25",
     "vei": "2"
   },
   {
@@ -270,6 +346,8 @@
     "country": "Guatemala",
     "type": "Stratovolcano",
     "date": "2002-01-04",
+    "latitude": "14.473",
+    "longitude": "-90.88",
     "vei": "3"
   },
   {
@@ -277,6 +355,8 @@
     "country": "Papua New Guinea",
     "type": "Lava cone",
     "date": "2000-02-28",
+    "latitude": "-6.137",
+    "longitude": "155.196",
     "vei": "2"
   },
   {
@@ -284,6 +364,8 @@
     "country": "Russia",
     "type": "Stratovolcano",
     "date": "1999-08-15",
+    "latitude": "56.653",
+    "longitude": "161.36",
     "vei": "4"
   },
   {
@@ -291,6 +373,8 @@
     "country": "Antarctica",
     "type": "Stratovolcano",
     "date": "1972-12-16",
+    "latitude": "-77.53",
+    "longitude": "-167.17",
     "vei": "2"
   },
   {
@@ -298,6 +382,8 @@
     "country": "Ethiopia",
     "type": "Shield",
     "date": "1967-07-02",
+    "latitude": "13.6",
+    "longitude": "40.67",
     "vei": "0"
   },
   {
@@ -305,6 +391,8 @@
     "country": "Italy",
     "type": "Stratovolcano",
     "date": "1934-02-02",
+    "latitude": "38.789",
+    "longitude": "15.213",
     "vei": "2"
   },
   {
@@ -312,6 +400,8 @@
     "country": "Indonesia",
     "type": "Complex",
     "date": "1933-08-13",
+    "latitude": "1.693",
+    "longitude": "127.894",
     "vei": "3"
   },
   {
@@ -319,6 +409,8 @@
     "country": "Guatemala",
     "type": "Stratovolcano",
     "date": "1922-06-22",
+    "latitude": "14.757",
+    "longitude": "-91.552",
     "vei": "3"
   },
   {
@@ -326,6 +418,8 @@
     "country": "Vanuatu",
     "type": "Stratovolcano",
     "date": "1774-06-02",
+    "latitude": "-19.532",
+    "longitude": "169.447",
     "vei": "3"
   }
 ]
